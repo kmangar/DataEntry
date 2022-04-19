@@ -1,13 +1,12 @@
 <h1 align="center">Welcome to Zillow Data Entry Automation 👋</h1>
 <p>
-  <a href="https://twitter.com/mangar_kham" target="_blank">
+  <a href="https://twitter.com/mangar_kham" target="mangar_kham">
     <img alt="Twitter: mangar_kham" src="https://img.shields.io/twitter/follow/mangar\_kham.svg?style=social" />
   </a>
 </p>
 
 > Using Beautiful soup scrape the zillow page for rental properties. Afterwards enter the data in google form using selenium. 
 
-### 🏠 [Homepage](www.github.com/kmangar/DataEntry)
 
 ## Author
 
