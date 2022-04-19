@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Zillow Data Entry Automation 👋</h1>
 <p>
-  <a href="https://twitter.com/mangar\_kham" target="_blank">
-    <img alt="Twitter: mangar\_kham" src="https://img.shields.io/twitter/follow/mangar\_kham.svg?style=social" />
+  <a href="https://twitter.com/mangar_kham" target="_blank">
+    <img alt="Twitter: mangar_kham" src="https://img.shields.io/twitter/follow/mangar\_kham.svg?style=social" />
   </a>
 </p>
 
